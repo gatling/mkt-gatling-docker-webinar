@@ -1,7 +1,7 @@
 
 # Gatling X Testcontainer
 
-This GitHub repository hosts the Gatling simulation and application from TestContainer that we showcased during our webinar featuring speakers @shelajev and @SamirPS.
+This GitHub repository hosts the Gatling simulation and application from TestContainer that we showcased during our webinar featuring speakers [Oleg Šelajev](https://github.com/shelajev) and [Samir Akarioh](https://github.com/SamirPS)
 
 ## Webinar Details
 
@@ -29,4 +29,4 @@ If you encounter any issues or have questions, please open an issue on this repo
 
 ## Acknowledgements
 
-Special thanks to @shelajev and @SamirPS for their contributions to the webinar and this project.
+Special thanks to [Oleg Šelajev](https://github.com/shelajev) and [Samir Akarioh](https://github.com/SamirPS) for their contributions to the webinar and this project.
