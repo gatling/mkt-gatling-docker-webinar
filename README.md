@@ -10,7 +10,7 @@ You can watch the webinar recording here:
 
 ## Running the Simulation and the Project
 
-For detailed instructions on how to run this simulation, please refer to our comprehensive article: [Link](https://app.livestorm.co/p/0b6f75b4-92c2-4f25-b789-33db00f58d37/live?s=fc3247a6-c601-48fe-836d-4c148efb1315)
+For detailed instructions on how to run this simulation, please refer to our [comprehensive article](https://gatling.io/blog/step-by-step-gatling-load-tests-with-testcontainers-and-docker)
 
 ## Prerequisites
 
